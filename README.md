@@ -9,6 +9,9 @@ Project code and CAD files for an after-market vehical blind-spot detection syst
 - Raspberry Pi 4b
 - Raspberry Pi Pico
 - Ultrasonic sensors
+- DLPDLCR2000EV Ti Projector
+- Sparkfun I2C endpoints
+- CAT6 cables
 
 ## Features:
 
